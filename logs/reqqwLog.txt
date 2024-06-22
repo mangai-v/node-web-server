@@ -1,0 +1,5 @@
+20230731	12:59:22	0fcbd7a8-cad7-4117-aa68-22f51ca1f6b2	GET undefined /index
+20230731	12:59:22	c61f4f46-9728-449d-8991-b060eb8109ba	GET undefined /css/style.css
+20230731	17:09:10	93e171ea-ce78-47e8-8b82-461a2f56f4be	GET undefined /
+20230731	17:09:12	d9c8705e-9ea6-4ff1-9cf6-cbd7929f0e01	GET undefined /favicon.ico
+20230731	17:09:14	456ea60d-5b2e-49f4-b236-bb6324aae428	GET undefined /
